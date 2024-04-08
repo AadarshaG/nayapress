@@ -1,0 +1,17 @@
+.ck-editor {
+  max-width: 870px !important;
+}
+.ck-content {
+  height: 300px !important;
+  overflow: scroll !important;
+  overflow-x: hidden !important;
+}
+
+.ck-content:focus {
+  outline: none;
+  border: none !important;
+}
+
+.ck-icon {
+  z-index: 0 !important;
+}
